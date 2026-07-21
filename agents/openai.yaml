@@ -1,0 +1,4 @@
+interface:
+  display_name: "Margin Generation"
+  short_description: "Preserve durable anchors during generation"
+  default_prompt: "Use $margin-generation to generate or revise this document with durable Margin anchors."
