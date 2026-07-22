@@ -1,4 +1,4 @@
 interface:
-  display_name: "Margin Generation"
-  short_description: "Preserve durable anchors during generation"
-  default_prompt: "Use $margin-generation to generate or revise this document with durable Margin anchors."
+  display_name: "Margin Write"
+  short_description: "Write and revise durable review documents"
+  default_prompt: "Use $margin-write to create or revise this document with durable Margin identity and review context."
