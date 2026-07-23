@@ -1,4 +1,4 @@
 interface:
   display_name: "Margin Write"
-  short_description: "Write and revise durable review documents"
-  default_prompt: "Use $margin-write to create or revise this document with durable Margin identity and review context."
+  short_description: "Review and revise durable Margin documents"
+  default_prompt: "Use $margin-write to review feedback or revise this document while preserving durable Margin identity."

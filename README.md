@@ -9,10 +9,12 @@ Install it with:
 npx skills add gerrymi/margin-skills --skill margin-write
 ```
 
-Margin Write creates and revises reviewable documents. It teaches compatible coding
-agents to emit stable `data-mrgn` targets, preserve target identity through rewrites,
-carry renamed targets as aliases, register opaque authorship through authenticated
-Margin MCP, and apply authorized review conversations during regeneration.
+Margin Write creates, reviews, and revises reviewable documents. It teaches compatible
+coding agents to emit stable `data-mrgn` targets, preserve target identity through
+rewrites, carry renamed targets as aliases, organize review conversations by topic,
+draft or post replies, safely resolve or archive threads, register opaque authorship
+through authenticated Margin MCP, and apply authorized review conversations during
+regeneration.
 
 Generated documents record `margin-write-version`. Margin can compare that document
 marker to its recommended release, but it does not inspect the user's machine.
